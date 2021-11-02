@@ -38,10 +38,6 @@ body {
     width: 100%;
 }
 
-#footer {
-
-}
-
 .icons {
     width: 19px;
     height: 19x;
@@ -49,38 +45,47 @@ body {
     opacity: 0.5;
     padding-right: 6px;
 }
+
 .card-image {
     width: 150px;
     height: 200px;
     margin-bottom: 1px;
     border-radius: 10px;
+    margin-left: 40px;
 }
+
 .card-fi{
     float: left;
     width: 154px;
     margin-left: 20px;
     margin-right: 3px;
 }
+
 .card {
     float: left;
     width: 154px;
     margin-right: 3px;
 }
+
 .card-title {
+    margin-left: 40px;
     font-size: x-small;
     font-weight: 500;
     margin-bottom: 1px;
     line-height: 5px;
     margin-top: 1px;
 }
+
   .card-text {
+    margin-left: 40px;
     font-size: 16px;
     line-height: 1px;
-
 }
+
 .bot {
     float: both;
 }
+
 .headfilm {
     text-indent: 20px;
 }
@@ -91,10 +96,6 @@ body {
     border-radius: 10px;
     margin-left: 4px;
     margin-right: 4px;
-
-.tickets {
-    padding-left: 130px;
-    padding-top: 200px;
 }
 
 .ad {
