@@ -38,7 +38,7 @@ body {
 }
 
 #footer {
-    pass;
+
 }
 
 .icons {
@@ -47,4 +47,47 @@ body {
     filter: alpha(Opacity=50);
     opacity: 0.5;
     padding-right: 6px;
+}
+.card-image {
+    width: 150px;
+    height: 200px;
+    margin-bottom: 1px;
+    border-radius: 10px;
+}
+.card-fi{
+    float: left;
+    width: 154px;
+    margin-left: 20px;
+    margin-right: 3px;
+}
+.card {
+    float: left;
+    width: 154px;
+    margin-right: 3px;
+}
+.card-title {
+    font-size: x-small;
+    font-weight: 500;
+    margin-bottom: 1px;
+    line-height: 5px;
+    margin-top: 1px;
+}
+  .card-text {
+    font-size: 16px;
+    line-height: 1px;
+
+}
+.bot {
+    float: both;
+}
+.headfilm {
+    text-indent: 20px;
+}
+
+.pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
 }
