@@ -21,15 +21,15 @@ body {
 }
 
 #menu {
-    width: 163px;
+    width: 188px;
     height: 1080px;
     display: block;
     color: #777777;
     margin-left: 110px;
     float: left;
     background: #FFFFFF;
-    border: 1px solid #F2F2F2;
-    padding: 18px 0px 0px 50px;
+    border: 2px solid #F2F2F2;
+    padding: 20px 0px 0px 47px;
 }
 
 #header {
