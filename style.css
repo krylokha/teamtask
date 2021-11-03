@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
+    margin: 0px;
     font-family: 'Montserrat', Arial, Tahoma, Verdana, sans-serif;
     align-items: center;
     font-size: 14px;
@@ -23,8 +24,10 @@ body {
 }
 
 #menu {
+    margin-top: 63px;
+    position: fixed;  
     width: 188px;
-    height: 2160px;
+    height: 100%;
     display: block;
     color: #777777;
     margin-left: 110px;
@@ -35,8 +38,10 @@ body {
 }
 
 #header {
+    position: fixed;
+    background: #1f1f1f;
     height: 63px;
-    width: 100%;
+    width: 1920px;
 }
 
 .icons {
@@ -141,8 +146,6 @@ body {
 
 img {
     border-radius: 5px;
-    float: left;
-    margin-bottom: 15px;
 }
 
 ul {
@@ -171,7 +174,7 @@ li {
 }
 
 section {
-    margin-left: 130px;
+    margin-left: 100px;
     margin-top: 40px;
 }
 
@@ -179,6 +182,11 @@ td {
     padding-top: 20px;
     vertical-align: top;
     border-bottom: 1px solid #F2F2F2;
+    
+}
+
+.special {
+    margin-bottom: 15px;
 }
 
 #logo-promo {
