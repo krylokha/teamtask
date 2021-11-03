@@ -38,7 +38,7 @@ body {
 }
 
 #header {
-    position: fixed;
+    position: flex;
     background: #1f1f1f;
     height: 63px;
     width: 1920px;
